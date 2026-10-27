@@ -60,8 +60,15 @@ Task B deliberately uses a simple, explainable length rule. Its clarity is usefu
 
 ## Contributions
 
-- Gowtham Revanur: **[Replace with an accurate description of the work you personally performed and can explain.]**
-- Swamireddy Ailuri: **[Replace with an accurate description of the work Swamireddy personally performed and can explain.]**
+Proposed responsibility split—both partners must confirm this accurately describes
+the work they can demonstrate and explain:
+
+- Gowtham Revanur (65%): Primary implementation owner for the themed signup UI,
+  field controllers and validators, Task A preset-tip state flow, Task B password
+  coach, project integration, release build, and repository preparation.
+- Swamireddy Ailuri (35%): Supporting owner for invalid/valid form testing,
+  empty-tip and retry verification, review of the three password-coach states,
+  README test documentation, and final acceptance-check review.
 
 ## Authorship and AI-use note
 

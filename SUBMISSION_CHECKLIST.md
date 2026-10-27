@@ -1,7 +1,8 @@
 # Submission checklist
 
 - [x] Add the partner's full name to `README.md`.
-- [ ] Replace both contribution placeholders with truthful descriptions.
+- [x] Replace both contribution placeholders with proposed responsibility descriptions.
+- [ ] Both partners confirm the proposed 65%/35% responsibility split is accurate.
 - [ ] Confirm with the instructor that AI-assisted work is permitted for this activity.
 - [ ] Run the app on an Android emulator or device and personally test all form, tip, error/retry, and password-coach states.
 - [x] Create a public GitHub repository and push the project.
