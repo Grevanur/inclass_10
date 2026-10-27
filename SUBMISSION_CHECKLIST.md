@@ -4,7 +4,8 @@
 - [ ] Replace both contribution placeholders with truthful descriptions.
 - [ ] Confirm with the instructor that AI-assisted work is permitted for this activity.
 - [ ] Run the app on an Android emulator or device and personally test all form, tip, error/retry, and password-coach states.
-- [ ] Create a public GitHub repository and push the project with both partners' visible contributions.
+- [x] Create a public GitHub repository and push the project.
+- [ ] Ensure both partners have truthful, visible contribution evidence if this was pair work.
 - [ ] Confirm both partners can explain a code path and make a small instructor-requested change.
 - [ ] Submit the public repository URL and the release APK together before the deadline.
 
