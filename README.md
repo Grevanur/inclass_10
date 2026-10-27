@@ -5,7 +5,7 @@
 - Track: Graduate
 - Completed tasks: Task A (Local Signup Tip Simulation) + Task B (Password Coach)
 - Student: Gowtham Revanur
-- Partner: **[Add partner's full name before submission]**
+- Partner: Swamireddy Ailuri
 - Repository: https://github.com/Grevanur/inclass_10
 - Local tip category: `password_help`
 
@@ -61,7 +61,7 @@ Task B deliberately uses a simple, explainable length rule. Its clarity is usefu
 ## Contributions
 
 - Gowtham Revanur: **[Replace with an accurate description of the work you personally performed and can explain.]**
-- Partner: **[Add the partner's name and accurate contribution before submission.]**
+- Swamireddy Ailuri: **[Replace with an accurate description of the work Swamireddy personally performed and can explain.]**
 
 ## Authorship and AI-use note
 

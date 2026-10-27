@@ -1,6 +1,6 @@
 # Submission checklist
 
-- [ ] Add the partner's full name to `README.md`.
+- [x] Add the partner's full name to `README.md`.
 - [ ] Replace both contribution placeholders with truthful descriptions.
 - [ ] Confirm with the instructor that AI-assisted work is permitted for this activity.
 - [ ] Run the app on an Android emulator or device and personally test all form, tip, error/retry, and password-coach states.
